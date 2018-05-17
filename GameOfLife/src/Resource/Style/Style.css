@@ -1,0 +1,25 @@
+.title0 {
+    -fx-font-size: 48px;
+} /*Заголовок первого типа - подпись окна*/
+
+.title1 {
+    -fx-font-size: 32px;
+} /*для обычного текста - параметры*/
+
+.btn1 {
+    -fx-font-size: 36px;
+    -fx-background-color: lightgreen;
+    -fx-background-radius: 22px;
+} /*для больших ярких кнопок - "Старт"*/
+
+.btn2 {
+    -fx-font-size: 30px;
+    -fx-background-color: orange;
+    -fx-background-radius: 22px;
+} /*кнопка загадочная - random*/
+
+.btn3 {
+    -fx-font-size: 24px;
+    -fx-text-fill: black;
+
+}
